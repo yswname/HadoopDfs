@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<hadoop.version>2.9.2</hadoop.version>
-		<junit.version>4.7</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<zookeeper.version>3.4.10</zookeeper.version>
 		<jar.plugin.version>2.4</jar.plugin.version>
 		<compiler.plugin.version>3.0</compiler.plugin.version>
